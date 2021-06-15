@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "format": "prettier --write 'src/**/*.{js,jsx}'"
+  },
+  "license": "MIT"
+}
